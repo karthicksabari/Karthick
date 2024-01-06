@@ -7,5 +7,6 @@ import com.idtag.salaar.entity.Project;
 
 @Repository
 public interface ProjectRepository extends CrudRepository<Project, Long>{
+	
 
 }
